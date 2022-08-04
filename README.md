@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ivory Dinosaur
 
 You can use the [editor on GitHub](https://github.com/wezyboy/wezyboy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
